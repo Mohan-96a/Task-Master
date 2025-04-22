@@ -22,15 +22,6 @@ A beautiful and functional todo list application built with React and TypeScript
 - Vite
 - Lucide Icons
 
-## Screenshots
-
-
-### Light Mode
-![Task Master Light Mode](https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop)
-
-### Dark Mode
-![Task Master Dark Mode](https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop&dark=1)
-
 ## Getting Started
 
 See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions.
